@@ -9,3 +9,15 @@ return{
     type:"DECREMENT"
 }
 }
+
+export const mulNum=()=>{
+    return{
+        type:"MULTIPLY"
+    }
+    }
+
+    export const divNum=()=>{
+        return{
+            type:"DIVIDE"
+        }
+        }

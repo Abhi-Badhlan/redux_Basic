@@ -1,4 +1,4 @@
-const initialState=10;
+const initialState=0;
 
 const redu=(state = initialState, action)=>{
 switch(action.type){
